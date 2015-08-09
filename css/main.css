@@ -182,7 +182,6 @@ Page: Contact
 /*************
 Colours
 *************/
-
 /*site body*/
 body {
   background-color: #ffffff;
@@ -191,13 +190,13 @@ body {
 
 /*green header*/
 header {
-  background: #6ab47b;
-  border-color: #599a68;
+  background: #FFDCD0;
+  /*border-color: #ffffff;*/
 }
 
 /*nav background on moblie devices*/
 nav {
-  background: #599a68;
+  background: #FFA384;
 }
 
 /*logo text*/
@@ -207,18 +206,18 @@ h1, h2 {
 
 /*links*/
 a{
- color: #6ab47b;
+ color: #FFA384;
 }
 
 
 /*nav link*/
 nav a, nav a:visited {
   color: #fff;
-
+  
 }
 /*selected nav link*/
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #FFA384;
 }
 
 /*site body*/
@@ -226,8 +225,6 @@ body {
   background-color: #ffffff;
   color: #999;
 }
-
-
 
 
 
